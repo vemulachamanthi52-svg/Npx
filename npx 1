@@ -1,5 +1,5 @@
 function MyButton() {
   return (
-    <button>I'm chamanthi i want configure the github</button>
+    <button>I'm chamanthi i want output</button>
   );
 }
